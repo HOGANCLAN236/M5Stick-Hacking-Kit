@@ -1,2 +1,3 @@
 # M5Stick-Hacking-Kit
-All the scripts I make for m5stick
+What you do with these scripts is not my responsablity.
+Please get permission before using any of these scripts
